@@ -1,0 +1,16 @@
+diff --git a/Source/FSD/Private/FSDGameUserSettings.cpp b/Source/FSD/Private/FSDGameUserSettings.cpp
+index 53031b0a..37ab8436 100644
+--- a/Source/FSD/Private/FSDGameUserSettings.cpp
++++ b/Source/FSD/Private/FSDGameUserSettings.cpp
+@@ -666 +666 @@ UFSDGameUserSettings::UFSDGameUserSettings() {
+-    this->volumeMusic = 42.23f;
++    this->volumeMusic = 56.99f;
+@@ -670 +670 @@ UFSDGameUserSettings::UFSDGameUserSettings() {
+-    this->AntiAliasingType = 1;
++    this->AntiAliasingType = 2;
+@@ -673 +673 @@ UFSDGameUserSettings::UFSDGameUserSettings() {
+-    this->UpscalingType = 1;
++    this->UpscalingType = 0;
+@@ -681 +681 @@ UFSDGameUserSettings::UFSDGameUserSettings() {
+-    this->ReflexMode = ENVidiaReflexMode::Disabled;
++    this->ReflexMode = ENVidiaReflexMode::Enabled;
